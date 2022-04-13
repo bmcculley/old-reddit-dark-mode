@@ -1,0 +1,1273 @@
+@media (prefers-color-scheme: dark) {
+  body,
+  body .content,
+  .modal-body,
+  .side,
+  .icon-menu a,
+  .side .leavemoderator,
+  .side .leavecontributor-button,
+  .side .titlebox,
+  .side .spacer .titlebox .redditname,
+  .side .titlebox .flairtoggle,
+  .side .usertext-body .md ol,
+  .side .usertext-body .md ol ol,
+  .side .usertext-body .md ol ol li,
+  .modactionlisting table *,
+  .side .recommend-box .rec-item,
+  .crosspost-preview,
+  .crosspost-thing-preview,
+  .admin_takedown,
+  .happening-now {
+    background-color: #262626!important;
+    border-color: #777!important;
+  }
+
+  .embedded-page .content > .sitetable,
+  .embedded-page.helpcenter-page .content,
+  .embedded-page.compose-page .content,
+  .embedded-page .content > .sitetable > div:nth-of-type(4n+1),
+  .embedded-page.helpcenter-page .content > div:nth-of-type(4n+1),
+  .embedded-page.compose-page .content > div:nth-of-type(4n+1) {
+    background-color: #262626!important;
+    color: #aaa!important;
+  }
+
+  .link,
+  .helpcenter-form .section-content {
+    background-color: #262626!important;
+  }
+
+  .pagename a,
+  .drop-choices a.choice {
+    color: #ecf0f1!important;
+  }
+
+  .drop-choices a.choice:hover {
+    color: #222!important;
+  }
+
+  .helpcenter-form .helpcenter-bottom-panel .helpcenter-content-policy p {
+    color: #aaa!important;
+  }
+
+  .popup,
+  .guider,
+  .guider p {
+    background-color: #262626!important;
+    color: #aaa!important;
+  }
+
+  #login_login {
+    background-color: #333333!important;
+    color: #bbb!important;
+  }
+
+  .message.new > .entry,
+  .read-next,
+  .drop-choices {
+    border-color: #4d4d4d!important;
+    background-color: #333333!important;
+  }
+
+  .drop-choices {
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.3);
+  }
+
+  .read-next .read-next-header,
+  .flairselector h2,
+  .flairselector li:hover {
+    border-color: transparent;
+    background-color: #3e3e3e!important;
+  }
+
+  .flairselector li.selected {
+    border-color: #787878!important;
+  }
+
+  .liveupdate-app .content {
+    background-color: #161616!important;
+  }
+
+  .entry .morecomments .gray {
+    color: rgba(221, 221, 221, 0.8)!important;
+  }
+
+  .trophy-info .trophy-name {
+    color: #eee !important;
+  }
+
+  .sidecontentbox .content {
+    border-color: rgba(234, 234, 234, 0.1)!important;
+  }
+
+  #progressIndicator,
+  .hover-bubble,
+  .side .side-message,
+  #editShortcutDialog {
+    color: #ddd!important;
+    border-color: #4d4d4d!important;
+    background-color: #333333!important;
+  }
+
+  .login-form-side {
+    background-color: #888!important;
+    color: #eee!important;
+  }
+
+  .login-form-side .error {
+    color: #cd5a5a!important;
+  }
+
+  #header,
+  .liveupdate-home .content {
+    background-color: dimgray!important;
+  }
+
+  #jumpToContent {
+    color: #ddd!important;
+    border: 1px solid;
+    padding: 0 2px;
+  }
+
+  #sr-header-area,
+  #sr-more-link {
+    background-color: #ccc!important;
+    color: #000!important;
+  }
+
+  .usertable tr .user .userkarma {
+    color: #aa9!important;
+  }
+
+  .thing.spam {
+    background-color: #3d2929!important;
+  }
+
+  .content .pretty-form * {
+    box-shadow: none;
+  }
+
+  .new-comment .usertext-body {
+    border-color: #242b3f!important;
+    background-color: #1a2135!important;
+  }
+
+  .wiki-page .pageactions .wikiaction-current {
+    background-color: #777!important;
+  }
+
+  .contact-us-page .button {
+    background: #777!important;
+    color: #ddd!important;
+  }
+
+  .contact-us-page .button:hover {
+    background: #666!important;
+  }
+
+  .message .subject .correspondent {
+    background: #212f46!important;
+    color: #1496dc!important;
+  }
+
+  .moderator .linefield {
+    background: #1a1a1a!important;
+  }
+
+  .wiki-page .wiki-page-content .md.wiki > .toc ul,
+  .tabmenu li a,
+  .tabmenu li.selected a,
+  #report form {
+    background-color: #262626!important;
+  }
+
+  .tabmenu li.selected a {
+    color: #d25a32;
+    border-bottom-color: #262626!important;
+  }
+
+  .tabmenu.formtab a {
+    color: white!important;
+    border-color: #505050!important;
+  }
+
+  .tabmenu.formtab .selected a {
+    color: white;
+    background-color: #5f99cf!important;
+  }
+
+  .side .titlebox form.flairtoggle,
+  .trophy-area .content,
+  .side .md ol,
+  .side .md ul {
+    background-color: #262626!important;
+    color: #ddd!important;
+  }
+
+  .organic-listing {
+    border-color: #505050!important;
+    background-color: transparent !important;
+  }
+
+  .organic-listing .nextprev {
+    opacity: .5;
+  }
+
+  .organic-listing .link,
+  .link.promotedlink {
+    background-color: transparent;
+    border-color: #505050!important;
+  }
+
+  .subredditbox li {
+    font-weight: 700;
+    text-transform: lowercase;
+  }
+
+  .subredditbox li a::before {
+    content: '#';
+  }
+
+  .dropdown.lightdrop a.choice:hover {
+    background-color: #1a1a1a!important;
+  }
+
+  .sidebox,
+  .subreddit-info,
+  .raisedbox,
+  .login-form-side,
+  .interstitial-subreddit-description {
+    background-color: #393939!important;
+    border-color: #151515!important;
+    color: #aaa!important;
+  }
+
+  .subreddit-info .spacer a {
+    background-color: #262626!important;
+  }
+
+  .morelink {
+    background: #444!important;
+    border-color: #444!important;
+  }
+
+  .morelink:hover {
+    border-color: #333333!important;
+    background: #333333!important;
+  }
+
+  .morelink:hover a {
+    color: #1496dc!important;
+  }
+
+  .morelink .nub {
+    display: none;
+  }
+
+  .sidebox .spacer,
+  .side .linkinfo {
+    background-color: #393939!important;
+  }
+
+  .commentbody.border {
+    background-color: #369!important;
+  }
+
+  input[type='number'],
+  input[type='text'],
+  input[type='password'],
+  .c-form-control {
+    color: #ccc!important;
+    border: 1px solid #4d4d4d!important;
+    background-color: #333333!important;
+  }
+
+  .content textarea {
+    background-color: #333333!important;
+    color: #eee!important;
+  }
+
+  .sr-bar a,
+  .rulespage .example,
+  #userTaggerTable th,
+  #newCommentsTable th,
+  .instructions .preftable th,
+  .instructions .pretty-form,
+  .remove-self .option,
+  .unfriend-button .option,
+  .entry .buttons li.reported-stamp,
+  .pretty-button,
+  .report-reasons {
+    color: #000!important;
+  }
+
+  .viewSource textarea[readonly] {
+    background: #666666!important;
+  }
+
+  .reported {
+    border-color: #daa520!important;
+  }
+
+  .nextprev a {
+    background: #777!important;
+    border-color: #333333!important;
+    color: #ddd!important;
+  }
+
+  .nextprev img:hover {
+    opacity: .85;
+  }
+
+  #ad-frame {
+    opacity: .8;
+  }
+
+  .comment.unread {
+    background-color: #4a473b!important;
+  }
+
+  .raisedbox .flat-list a {
+    background-color: #262626!important;
+  }
+
+  .raisedbox .flat-list a:hover {
+    background-color: #369!important;
+    color: #fff;
+  }
+
+  .instructions {
+    background: #fff!important;
+  }
+
+  #siteTable .link .title.loggedin.click {
+    color: gray!important;
+  }
+
+  .markhelp.md tr td {
+    background-color: #36c!important;
+  }
+
+  .mail .havemail img,
+  .mail .nohavemail img {
+    visibility: hidden;
+  }
+
+  .expando-button {
+    background-color: transparent;
+  }
+
+  #sr-autocomplete-area {
+    z-index: 1;
+  }
+
+  button,
+  input[type='button'],
+  input[type='submit'],
+  input[type='reset'] {
+    color: #fff!important;
+    border: 1px outset gray!important;
+    background-color: #4d4d4d!important;
+  }
+
+  .create-reddit .title {
+    background-color: rgba(24, 24, 24, 0.2)!important;
+    color: #8AD!important;
+  }
+
+  .linefield,
+  .linefield .linefield-content,
+  .linefield.mobile {
+    border-color: #1a1a1a!important;
+    background-color: #4d4d4d!important;
+  }
+
+  .content .roundfield,
+  .content.submit .roundfield,
+  .traffic-table tr:nth-of-type(even) {
+    background-color: #181818!important;
+  }
+
+  .traffic-table tr:nth-of-type(odd).promo-traffic-live {
+    color: #181818!important;
+  }
+
+  .traffic-table.promocampaign-table tr.active {
+    background-color: #6d2f39!important;
+    border: 2px dotted #a70000!important;
+  }
+
+  .sponsored-page .dashboard {
+    color: #dedede!important;
+  }
+
+  .sponsored-page .campaign-editor .editor-group,
+  .sponsored-page .editor-group {
+    background-color: #151515!important;
+  }
+
+  .sponsored-page .campaign-editor .campaign-set {
+    background-color: #666!important;
+  }
+
+  .sponsored-page .linefield-content textarea,
+  .sponsored-page .linefield-content input {
+    color: #181818!important;
+  }
+
+  .linefield .markhelp table {
+    background-color: inherit;
+  }
+
+  .content .sponsored-page textarea,
+  .content .sponsored-page input {
+    background-color: #fcfcfc!important;
+  }
+
+  .md code,
+  .md pre,
+  .link .md pre,
+  .content .md pre,
+  .new-comment .md pre,
+  .usertext.border .md pre,
+  .link .md :not(pre) > code,
+  .new-comment .md :not(pre) > code,
+  .usertext.border .md :not(pre) > code {
+    color: inherit;
+    border-color: #58697b!important;
+    background-color: #2a3340!important;
+  }
+
+  .comment .md p a[href='/spoiler'],
+  .comment .md p a[href='#spoiler'] {
+    background-color: #000!important;
+    color: #000!important;
+  }
+
+  .usertable tr:hover,
+  .moderator-table tr:hover,
+  .usertext.border .usertext-body,
+  .usertext.grayed .usertext-body {
+    background-color: #444!important;
+  }
+
+  .login-form,
+  .login-form-side .submit,
+  #header-bottom-right,
+  #srList,
+  .dropdown.lightdrop .drop-choices {
+    background-color: #333333!important;
+  }
+
+  #srList tr {
+    border-bottom-color: #646464!important;
+  }
+
+  #srList tr:hover {
+    background-color: #3e3e3e!important;
+  }
+
+  #quickMessage textarea,
+  #quickMessage select {
+    background-color: #aaa!important;
+  }
+
+  #search input[type='text'] {
+    color: white !important;
+  }
+
+  #search select,
+  #search option {
+    color: #1a1a1a!important;
+  }
+
+  #searchexpando,
+  .post-sharing {
+    background: #303030!important;
+    border-color: #444!important;
+  }
+
+  a,
+  .md a,
+  .share-button .option,
+  #subscribe a,
+  .share .option,
+  .wired a,
+  .side a,
+  .link .score.dislikes,
+  .linkcompressed .score.dislikes,
+  a[rel='tag'],
+  .dsq-help,
+  #authorInfoToolTip h3 a,
+  .reddiquette,
+  .parent .author,
+  .parent .subreddit,
+  .combined-search-page .search-result a,
+  .combined-search-page .search-result a > mark,
+  .hoverHelp,
+  .deepthread a,
+  .policy-page .md h1 a,
+  .policy-page .md h3 a {
+    color: #8cb2d9!important;
+  }
+
+  .flairselector li a {
+    color: #85b2e0 !important;
+  }
+
+  .thing .title {
+    color: #dedede !important;
+  }
+
+  .thing .source-url {
+    color: #cccccc!important;
+  }
+
+  .tagline a {
+    color: #6a98af!important;
+  }
+
+  .morecomments a {
+    color: #999999!important;
+  }
+
+  .thing .title:visited,
+  .thing.visited .title,
+  .combined-search-page .search-result.visited a,
+  .combined-search-page .search-result a:visited,
+  .combined-search-page .search-result a:visited > mark {
+    color: #a6a6a6!important;
+  }
+
+  .thing .source-url:visited {
+    color: #999999!important;
+  }
+
+  .flair-settings ~ .tabpane-content {
+    border-color: #1a1a1a!important;
+  }
+
+  .flaircell input[type='text'] {
+    border: 1px solid #555!important;
+  }
+
+  .md blockquote {
+    color: #a0a0a0!important;
+    border-left-color: #646464!important;
+  }
+
+  .infobar:not(.newsletterbar),
+  .reddit-infobar {
+    border-color: #2966a3!important;
+    background-color: #264c73!important;
+  }
+
+  .infobar:not(.newsletterbar) .md,
+  .reddit-infobar .md,
+  .md {
+    color: white!important;
+  }
+  }
+
+  .rank .star,
+  .link .score.likes,
+  .linkcompressed .score.likes {
+    color: #ff4500!important;
+  }
+
+  .linkcompressed .entry .buttons li a,
+  .link .usertext-body .md,
+  .thing .compressed,
+  .link.promotedlink,
+  .link.promotedlink.promoted,
+  .subreddit .usertext .md,
+  .commentreply .help tr {
+    background: #666!important;
+  }
+
+  .link .usertext-body .md,
+  .side .linkinfo {
+    border-color: #666!important;
+  }
+
+  .subreddit-info .label,
+  .sidebox .subtitle,
+  .modactionlisting .description,
+  .modactionlisting .timestamp time,
+  .modactionlisting .timestamp {
+    color: #aaa!important;
+  }
+
+  .submit textarea,
+  .submit #url,
+  .submit #sr-autocomplete,
+  .usertext-edit textarea,
+  .c-close,
+  #BigEditor #BigText,
+  #liveupdate-statusbar,
+  #liveupdate-statusbar.complete,
+  #alert_message input {
+    color: #ccc!important;
+    border-color: #4d4d4d!important;
+    background-color: #333333!important;
+  }
+
+  #liveupdate-statusbar.live.connected {
+    background-color: #344b4e!important;
+    border: 1px solid #38585f!important;
+    color: inherit;
+  }
+
+  > .content > .spacer > .sitetable::before,
+  > .content > .sharelink ~ .sitetable::before,
+  .side .age,
+  .trophy-info *,
+  .golddvertisement,
+  .flair-jump .title,
+  .savedComment,
+  .md,
+  .md h2,
+  .content .sitetable .thing .md,
+  .side .usertext-body ol,
+  .side .redditname a,
+  .side h1,
+  .side h2,
+  .side h3,
+  .side h4,
+  .side h5,
+  .side h6,
+  .content .wiki-page-content .md.wiki h1,
+  .content .wiki-page-content .md.wiki h2,
+  .content .wiki-page-content .md.wiki h3,
+  .content .wiki-page-content .md.wiki h4,
+  .content .wiki-page-content .md.wiki h5,
+  .content .wiki-page-content .md.wiki h6,
+  .content .wiki-page-content .md.wiki p,
+  .wiki-page .wiki-page-content .pagelisting,
+  .sidebar h1,
+  .sidebar h2,
+  .sidebar h3,
+  .sidebar h4,
+  .sidebar h5,
+  .sidebar h6,
+  .flairselector h2,
+  .wiki-page .wiki-page-content .description h2 {
+    color: #ddd!important;
+  }
+
+  .voteWeight,
+  .nextprev img {
+    opacity: .7;
+  }
+
+  .searchfacets {
+    background-color: #2c2c2c!important;
+    box-shadow: none;
+  }
+
+  .combined-search-page .search-result .search-result-body,
+  .generic-table,
+  .message.message-reply.recipient > .entry .head,
+  .message.message-parent.recipient > .entry .head,
+  .linefield .title,
+  .liveupdate-listing li.liveupdate:hover time,
+  .spam .domain,
+  .spam .domain a,
+  .hover-bubble.multi-selector strong,
+  .subreddit-rules-page .md-container .md .subreddit-rule-description {
+    color: inherit;
+  }
+
+  .comment.spam > .child,
+  .message.spam > .child {
+    background-color: transparent;
+  }
+
+  .nextprev a:hover,
+  .next-suggestions a:hover {
+    border-color: transparent;
+    background-color: #777!important;
+  }
+
+  .modactionlisting + #progressIndicator {
+    width: auto;
+    margin: 20px 310px 0 0;
+  }
+
+  body.with-listing-chooser .listing-chooser,
+  body.with-listing-chooser.listing-chooser-collapsed .listing-chooser {
+    background-color: #262626!important;
+  }
+
+  body.with-listing-chooser .listing-chooser .grippy,
+    body.with-listing-chooser .listing-chooser.initialized .grippy,
+    body.with-listing-chooser.listing-chooser-collapsed .listing-chooser .grippy,
+    body.with-listing-chooser.listing-chooser-collapsed .listing-chooser.initialized .grippy {
+    background-color: #262626!important;
+    border: none;
+    outline: none;
+  }
+
+  body.with-listing-chooser .listing-chooser .grippy::after,
+      body.with-listing-chooser .listing-chooser.initialized .grippy::after,
+      body.with-listing-chooser.listing-chooser-collapsed .listing-chooser .grippy::after,
+      body.with-listing-chooser.listing-chooser-collapsed .listing-chooser.initialized .grippy::after {
+    background-color: #2f2f2f!important;
+    border-right-color: #444!important;
+  }
+
+  body.with-listing-chooser .listing-chooser .grippy:hover,
+      body.with-listing-chooser .listing-chooser.initialized .grippy:hover,
+      body.with-listing-chooser.listing-chooser-collapsed .listing-chooser .grippy:hover,
+      body.with-listing-chooser.listing-chooser-collapsed .listing-chooser.initialized .grippy:hover {
+    background-color: #262626!important;
+    border-left-color: #333333!important;
+  }
+
+  body.with-listing-chooser .listing-chooser .grippy:hover::before,
+        body.with-listing-chooser .listing-chooser.initialized .grippy:hover::before,
+        body.with-listing-chooser.listing-chooser-collapsed .listing-chooser .grippy:hover::before,
+        body.with-listing-chooser.listing-chooser-collapsed .listing-chooser.initialized .grippy:hover::before {
+    background-color: #262626!important;
+  }
+
+  body.with-listing-chooser .listing-chooser .grippy:hover::after,
+        body.with-listing-chooser .listing-chooser.initialized .grippy:hover::after,
+        body.with-listing-chooser.listing-chooser-collapsed .listing-chooser .grippy:hover::after,
+        body.with-listing-chooser.listing-chooser-collapsed .listing-chooser.initialized .grippy:hover::after {
+    border-right-color: #777!important;
+  }
+
+  .listing-chooser li,
+  .listing-chooser li.selected {
+    background-color: #393939!important;
+    color: #ccc!important;
+    border-color: #000!important;
+    box-shadow: none;
+  }
+
+  .listing-chooser li a,
+  .listing-chooser li.selected a {
+    color: #8AD!important;
+  }
+
+  .listing-chooser .intro {
+    background-color: #444!important;
+    border-color: #262626!important;
+    color: #ccc!important;
+  }
+
+  .listing-chooser .create button {
+    color: #eee!important;
+    background-color: #777!important;
+  }
+
+  .subreddits .remove-sr,
+  .add-sr .add {
+    filter: invert(80%);
+  }
+
+  /*.with-listing-chooser.multi-page .footer-parent {
+    background: url("../images/nightmode/snooBalloons.png") no-repeat 49% 0;
+  }*/
+
+  #about-main #history .events.timeline .event:hover .event-content {
+    box-shadow: 1px 0 3px 2px #aaa!important;
+  }
+
+  #about-main .statsgrid .stat .value {
+    text-shadow: 0 3px 5px #1a1a1a!important;
+  }
+
+  .about-page .abouttitle h1,
+  .create .morelink,
+  .permission-summary,
+  .flairselector li,
+  .subreddit .usertext .md {
+    border-color: transparent;
+  }
+
+  .about-page .about-menu {
+    background: #ddd!important;
+  }
+
+  .about-page h2,
+  .md del {
+    color: #777!important;
+  }
+
+  .about-page .about-menu li.selected a,
+  .about-page .about-menu li:hover a,
+  #about-main #history .events.timeline .event-content {
+    background: #aaa!important;
+  }
+  /*
+  .about-page .abouttitle {
+    background-image: url("../images/nightmode/aboutHeader.png");
+  }
+  */
+  .policy-page .md p {
+    color: #eee!important;
+  }
+
+  .policy-page .md p em {
+    background-color: #dad0b3;
+    color: #000!important;
+  }
+
+  body,
+  .sidebar .md,
+  .side,
+  .side *,
+  .side .spacer,
+  .content,
+  .traffic-tables .traffic-table tr,
+  .parentComment .md,
+  .post-body.entry-content,
+  .dsq-auth-header,
+  .instructions .preftable th,
+  #BigEditor .markdownEditor a,
+  #alert_message,
+  #report-action-form {
+    color: #ccc!important;
+  }
+
+  .titlebox form.toggle,
+  .leavemoderator {
+    background-color: inherit;
+  }
+
+  .server-seconds {
+    background: #333333!important;
+    border-color: #1a1a1a!important;
+  }
+
+  .snoovatar-page footer .inputs,
+  .guider,
+  aside.sidebar #discussions li {
+    background: #262626!important;
+  }
+
+  .snoovatar-page .checkbox-label [type='checkbox'] + .proxy-checkbox {
+    background: #f00!important;
+  }
+
+  .snoovatar-page .checkbox-label [type='checkbox']:checked + .proxy-checkbox {
+    background: #0a802e!important;
+  }
+
+  .tagline .friend {
+    color: #d25a32!important;
+  }
+
+  .tagline .submitter {
+    color: #00aaff!important;
+  }
+
+  .tagline .moderator {
+    color: #228822!important;
+  }
+
+  .tagline .admin,
+  .user-distinction .admin {
+    color: #c81414!important;
+  }
+
+  hr,
+  .md hr,
+  .message.gold-auto blockquote {
+    border-color: #3c3c3c!important;
+    background-color: #3c3c3c!important;
+  }
+
+  .goldvertisement,
+  .goldvertisement .inner {
+    border-color: rgba(196, 180, 135, 0.5)!important;
+  }
+
+  .goldvertisement .inner h2,
+  .goldvertisement .progress p {
+    color: #c4b487!important;
+  }
+
+  .goldvertisement a,
+  .goldvertisement a:hover {
+    background-color: #4d4d4d!important;
+    border-color: black!important;
+    color: white!important;
+  }
+
+  .letter-body p,
+  #gold-letter h1,
+  #about-gold h1,
+  #about-gold footer > p,
+  .remove-self .option,
+  .moderator.remove-self .option,
+  .message-count,
+  .usertable > .toggle {
+    color: #262626!important;
+  }
+
+  .gold-accent {
+    color: #e6daae!important;
+    background-color: #837854!important;
+    border-color: #ac9c68!important;
+  }
+
+  .side .gold-accent *,
+  .gold-accent .details,
+  .gold-accent h1,
+  .gold-accent th {
+    color: #e6daae!important;
+  }
+
+  .hover-bubble.anchor-top-centered::after,
+  #about-main #history .events.timeline .event-marker.top,
+  #about-main #history .events.timeline .event-marker.bottom {
+    border-bottom-color: #aaa!important;
+  }
+
+  .guiders_arrow {
+    opacity: .5;
+  }
+
+  .white-field,
+  .delete-field,
+  .moderator .traffic-table tbody tr:nth-child(even),
+  .instructions,
+  .linefield .delete-field,
+  #pref-delete .delete-field,
+  .contact-us-page .details li,
+  .subreddit-report-form input:disabled,
+  .action-form input:disabled {
+    background-color: transparent;
+  }
+
+  .message.message-reply .entry,
+  .message.message-parent .entry,
+  .flairselector.drop-choices.active,
+  .message.threaded .child,
+  .comment .child,
+  .comment .showreplies,
+  .message.message-reply:not(.threaded) .entry,
+  .message.message-parent:not(.threaded) .entry,
+  .liveupdate-app .content,
+  .liveupdate-listing li.separator::before,
+  .md td,
+  .md th,
+  .footer,
+  .footer .col,
+  .userTagLink.hasTag,
+  #userTaggerPreview {
+    border-color: #4d4d4d!important;
+  }
+
+  .comment .md p a[href='/spoiler']:hover,
+  .comment .md p a[href='/spoiler']:active,
+  .comment .md p a[href='#spoiler']:hover,
+  .comment .md p a[href='#spoiler']:active,
+  .addNewWidget,
+  .editWidget,
+  #authorInfoToolTip .option,
+  .updateTime,
+  #shortlink-text,
+  .guiders_button,
+  .blueButton,
+  .gold-accent a,
+  .snoovatar-page .gold-accent a,
+  .combined-search-page .search-result-subreddit .search-subscribe-button .add.active,
+  .combined-search-page .search-result-subreddit .search-subscribe-button .remove.active,
+  .fancy-toggle-button a,
+  .fancy-toggle-button .multi-count {
+    color: white!important;
+  }
+
+  .markhelp table tr:first-child {
+    background-color: #4d4d4d !important;
+  }
+
+  .usertext .markhelp .spaces,
+  .liveupdate-listing li.separator time,
+  .diff_header,
+  .diff_next,
+  .hover-bubble.multi-selector label:hover {
+    background-color: #4d4d4d!important;
+  }
+
+  .flair,
+  .linkflairlabel {
+    color: #c8c8c8!important;
+    background-color: #404040!important;
+    border-color: #4d4d4d!important;
+  }
+
+  .flairrichtext[style*='color'] {
+    color: #c8c8c8 !important;
+    background-color: #404040 !important;
+    border-color: #4d4d4d!important;
+  }
+
+  .toggleButton .toggleOff,
+  .toggleButton .toggleOn,
+  .toggleButton.reverseToggleButton:not(.enabled) .toggleOff,
+  .toggleButton.reverseToggleButton:not(.enabled) .toggleOn {
+    color: rgba(255, 255, 255, 0.8)!important;
+    border-color: #3c3c3c!important;
+  }
+
+  .toggleButton:not(.enabled) .toggleOn,
+  .toggleButton.enabled .toggleOff,
+  .toggleButton.reverseToggleButton.enabled .toggleOn,
+  .toggleButton.reverseToggleButton:not(.enabled) .toggleOff {
+    color: #3c3c3c!important;
+    border-color: #3c3c3c!important;
+    background: #282828!important;
+  }
+
+  .toggleButton.enabled .toggleOn,
+  .toggleButton.reverseToggleButton:not(.enabled) .toggleOn {
+    background: linear-gradient(to right, #25456b, #282828)!important;
+  }
+
+  .toggleButton:not(.enabled) .toggleOff,
+  .toggleButton.reverseToggleButton.enabled .toggleOff {
+    background: linear-gradient(to left, #882626, #282828)!important;
+  }
+
+  .link .rank {
+    color: #505050!important;
+  }
+
+  .midcol .score,
+  .moduleButton:not(.enabled) {
+    color: #646464!important;
+  }
+
+  .tagline,
+  .entry .buttons li a,
+  .trending-subreddits strong {
+    color: #828282!important;
+  }
+
+  .nsfw-stamp {
+    color: #bf4040!important;
+  }
+
+  .spoiler-stamp {
+    color: #ff8200!important;
+  }
+
+  .diff_sub {
+    background-color: rgba(240, 128, 128, 0.5)!important;
+  }
+
+  .diff_add {
+    background-color: rgba(144, 238, 144, 0.4)!important;
+  }
+
+  .diff_chg {
+    background-color: rgba(255, 255, 0, 0.4)!important;
+  }
+
+  .hover-bubble.multi-selector .create-multi input[type='text'] {
+    color: #c04e51!important;
+    background-color: inherit;
+  }
+
+  #alert_message,
+  #report-action-form {
+    border-color: #404040!important;
+    background-color: #262626!important;
+  }
+
+  .sr-interest-bar {
+    border-color: transparent;
+    background-color: #29333d!important;
+  }
+
+  .sr-interest-bar .bubble {
+    background-color: black!important;
+  }
+
+  .sr-interest-bar .bubble::after {
+    border-right-color: black!important;
+  }
+
+  .subreddit-rule-item:hover {
+    background-color: #2b2b2b!important;
+  }
+
+  .subreddit .usertext .md {
+    background-color: #333333!important;
+    border-color: #777!important;
+  }
+
+  .user-subreddit .path {
+    color: #8cb2d9!important;
+  }
+
+  .modal .modal-header-title {
+    color: #aaa!important;
+  }
+
+  .modal .modal-header,
+  .modal .field-otp,
+  .modal .modal-content {
+    background-color: #333333!important;
+    border-color: #777!important;
+    color: #aaa!important;
+  }
+
+  .modal .c-close {
+    background-color: inherit;
+    filter: invert(100%);
+  }
+
+  .report-modal .report-form-bottom-panel .report-form-content-policy a,
+  .report-modal .report-form-action-desc {
+    color: #8cb2d9!important;
+  }
+
+  .report-modal .report-form-bottom-panel .report-form-content-policy p,
+  .report-modal .report-reason-item .report-reason-display,
+  .report-modal .report-form-last-step-text,
+  .report-modal .report-form-last-step-text-custom-rules,
+  .report-modal .report-form-big-content-policy {
+    color: #aaa!important;
+  }
+
+  .report-modal .c-close {
+    background-color: inherit;
+  }
+
+  .report-modal .report-form-block-user img,
+  .report-modal .report-form-blocked-user img {
+    filter: invert(100%);
+  }
+
+  .crossposting-modal .crosspost-header-title,
+  .crossposting-modal .crosspost-label,
+  .crossposting-modal .crosspost-sublabel {
+    color: #aaa!important;
+  }
+
+  .crossposting-modal .crosspost-description {
+    background-color: #333333!important;
+    border-color: #777!important;
+  }
+
+  .crossposting-modal .modal-body,
+  .crossposting-modal .modal-content,
+  .crossposting-modal .crosspost-field,
+  .crossposting-modal .crosspost-preview,
+  .crossposting-modal .crosspost-thing-preview {
+    background-color: #262626!important;
+    color: #aaa;
+  }
+
+  .tfa-login-modal .tfa-login-caption {
+    color: #aaa!important;
+  }
+
+  .tfa-login-modal .tfa-switch-type-of-code {
+    color: #8cb2d9!important;
+  }
+
+  .tfa-login-modal .tfa-login-bottom-panel .tfa-login-having-trouble a {
+    color: #8cb2d9!important;
+  }
+
+  .enable-tfa-modal .enable-tfa-caption,
+  .enable-tfa-modal .pref-otp-qr li {
+    color: #aaa!important;
+  }
+
+  .enable-tfa-modal .otp-secret-info canvas {
+    border: solid 5mm white!important;
+  }
+
+  .enable-tfa-modal .switch-barcode-and-code {
+    color: #8cb2d9!important;
+  }
+
+  .enable-tfa-modal .enable-tfa-bottom-panel .enable-tfa-learn-more a,
+  .enable-tfa-modal .enable-tfa-bottom-panel .switch-barcode-and-code a {
+    color: #8cb2d9!important;
+  }
+
+  .disable-tfa-modal .disable-tfa-caption {
+    color: #aaa!important;
+  }
+
+  .disable-tfa-modal .disable-tfa-bottom-panel .disable-tfa-learn-more a {
+    color: #8cb2d9!important;
+  }
+
+  .backup-codes-modal .backup-codes-caption {
+    color: #aaa!important;
+  }
+
+  .pinnable-content.pinned {
+    background-color: #262626 !important;
+  }
+
+  .pinnable-content.pinned .c-close {
+    background-color: dimgray!important;
+  }
+
+  .author-tooltip__head {
+    background-color: #262626!important;
+    border-color: #777!important;
+  }
+
+  .author-tooltip__credentials-list strong,
+  .author-tooltip__head h3,
+  .author-tooltip__description {
+    color: #aaa!important;
+  }
+
+  .author-tooltip__link-list a,
+  .author-tooltip__head a {
+    color: #8cb2d9!important;
+  }
+
+  .author-tooltip__link-list a:hover,
+  .author-tooltip__head a:hover {
+    color: #8cb2d9!important;
+  }
+
+  .desktop-onboarding__description,
+  .desktop-onboarding-sign-up__form-note,
+  .desktop-onboarding-step_sign-up footer,
+  .subreddit-picker__subreddit-name strong {
+    color: #aaa!important;
+  }
+
+  .desktop-onboarding-step_sign-up footer a {
+    color: #8cb2d9!important;
+  }
+
+  .desktop-onboarding__col_sign-up_image {
+    opacity: .7;
+  }
+
+  .subreddit-picker,
+  .c-username-picker-shown .desktop-onboarding__col_username_picker {
+    background-color: #262626!important;
+    border-color: #777!important;
+  }
+
+  .subreddit-picker__category_selected {
+    background-color: #333333!important;
+  }
+
+  .api-help .overview h2,
+  .api-help .contents .introduction strong {
+    color: #aaa!important;
+  }
+
+  .api-help .contents .overview code,
+  .api-help .parameters {
+    background-color: #333333!important;
+  }
+}

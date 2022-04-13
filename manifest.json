@@ -1,0 +1,21 @@
+{
+  "name": "Old Reddit Dark Mode",
+  "description": "When you just want dark mode on old reddit.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "icons": {
+    "48": "img/icon48.png",
+    "64": "img/icon64.png",
+    "128": "img/icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://old.reddit.com/*"],
+      "css": ["styles.css"],
+      "run_at": "document_start"
+    }
+  ],
+  "permissions": [
+    "*://old.reddit.com/*"
+  ]
+}
